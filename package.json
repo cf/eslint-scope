@@ -1,5 +1,5 @@
 {
-  "name": "eslint-scope",
+  "name": "eslint-scope-oas",
   "description": "ECMAScript scope analyzer for ESLint",
   "homepage": "http://github.com/eslint/eslint-scope",
   "main": "./dist/eslint-scope.cjs",

@@ -3,7 +3,7 @@
  * @author Milos Djermanovic
  */
 
-import assert from "assert";
+import { assert } from "assert";
 import * as espree from "espree";
 import { KEYS } from "eslint-visitor-keys";
 import { analyze } from "../lib/index.js";
